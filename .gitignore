@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+*.AppImage
+*.tar.gz
+*.tar.zst
+.DS_Store
